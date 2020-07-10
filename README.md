@@ -5,7 +5,7 @@ Online T5 | Front-end | 2020 | Semana 8 | Carreira
 
 <div id='exercicio'></div>
 
-## Exercício - Aula 11/07
+## Exercício - Aula 11/07/2020
 
 ---
 
@@ -21,6 +21,6 @@ Online T5 | Front-end | 2020 | Semana 8 | Carreira
 - **Atenção**: Faça alterações apenas nos arquivos dentro da sua pasta, os arquivos da pasta raiz _exercicio_ não deverão ser modificados para não acarretar conflitos de git **ALTERA OS ARQUIVOS SOMENTE DENTRO DA SUA PASTA**
 - Adicione uma pasta com seu-nome dentro da pasta `exercicio`, ex: _barbara-aguilar_
 - Dentro da pasta com seu-nome, copie os arquivos da pasta raiz _exercicio_
-- trabalhe dentro da sua branch fazendo todos os commits e pushs direcionados para ela, ao finalizar o projeto realizar o `pull request` para a master
+- Trabalhe dentro da sua branch fazendo todos os commits e pushs direcionados para ela, ao finalizar o projeto realizar o `pull request` para a master
 
 ---
