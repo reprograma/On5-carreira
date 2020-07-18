@@ -48,6 +48,15 @@ header {
     flex: 0 1 auto;
     padding: 1vh;
 }
+#instagram{
+    text-transform: lowercase;
+}
+#facebook{
+    text-transform: lowercase;
+}
+#email{
+    text-transform: lowercase;
+}
 .arrow-back {
     position: absolute;
     left: 1.5%;
